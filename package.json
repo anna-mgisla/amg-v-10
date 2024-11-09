@@ -1,5 +1,13 @@
 {
-  "devDependencies": {
-    "cypress": "^13.15.1"
-  }
+  "name": "v10",
+"version": "1.0.0",
+  "description": "Vefforritun 1 verkefni 10 Anna María Gísladóttir",
+  "main": "profun.js",
+    "scripts": {
+    "test": "jest"
+  
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
